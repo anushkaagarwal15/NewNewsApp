@@ -1,0 +1,253 @@
+{
+    "status": "ok",
+    "totalResults": 35,
+    "articles": [
+    {
+    "source": {
+    "id": null,
+    "name": "CNBC"
+    },
+    "author": "Arjun Kharpal",
+    "title": "Apple loses EU court battle over 13 billion euro tax bill in Ireland - CNBC",
+    "description": "Europe's top court on Tuesday ruled against Apple in the tech giant's 10-year court battle over its tax affairs in Ireland.",
+    "url": "https://www.cnbc.com/2024/09/10/apple-loses-eu-court-battle-over-13-billion-euro-tax-bill-in-ireland.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/107432118-1719223529507-gettyimages-2100328748-omarques_23032024_phone_tech-4.jpeg?v=1725885114&w=1920&h=1080",
+    "publishedAt": "2024-09-10T07:56:33Z",
+    "content": "Europe's top court on Tuesday ruled against Apple in the tech giant's 10-year court battle over its tax affairs in Ireland.\r\nThe pronouncement from the European Court of Justice comes hours after App… [+1933 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "CNET"
+    },
+    "author": null,
+    "title": "iPhone 16 Preorder Countdown: Release Date, Price, Colors for Apple's Newest Phones - CNET",
+    "description": "With four new iPhone 16 models and nine new colors to choose from, there's sure to be a preorder scrum for the most popular combos. We've got all iPhone sale details you need to know.",
+    "url": "https://www.cnet.com/deals/iphone-16-preorder-countdown-release-date-price-colors-for-apples-newest-phones/",
+    "urlToImage": "https://www.cnet.com/a/img/resize/1ca62d72cb8ccc148bd72dc6a34087628179115c/hub/2024/09/09/583dd271-f9e1-4ae2-ab6e-e820b197ea32/iphone-16-thumb.png?auto=webp&fit=crop&height=675&width=1200",
+    "publishedAt": "2024-09-10T07:01:00Z",
+    "content": "All of our questions about the new Apple iPhone 16 were answered at Monday's \"Glowtime\" Apple event, with answers including the big new features like a camera launch button, new colors like ultramari… [+2970 chars]"
+    },
+    {
+    "source": {
+    "id": "reuters",
+    "name": "Reuters"
+    },
+    "author": "Reuters",
+    "title": "Ukraine attacks Russia with 144 drones, killing one and closing airports - Reuters.com",
+    "description": "Ukraine struck the Moscow region on Tuesday in its biggest drone attack so far on the Russian capital, killing at least one woman, wrecking dozens of homes and forcing around 50 flights to be diverted from airports around Moscow.",
+    "url": "https://www.reuters.com/world/europe/russia-destroys-ukraine-launched-drone-flying-towards-moscow-mayor-says-2024-09-09/",
+    "urlToImage": "https://www.reuters.com/resizer/v2/V4PZ7EHT3JORLJH4E2JRSCO7BE.jpg?auth=0a35db06e1c771d056e68ca456b1f0d3fdef552a3488cf1000c2f5b23b310834&height=1005&width=1920&quality=80&smart=true",
+    "publishedAt": "2024-09-10T06:13:00Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": "associated-press",
+    "name": "Associated Press"
+    },
+    "author": "WAFAA SHURAFA, SAMY MAGDY",
+    "title": "An Israeli strike on a Gaza humanitarian zone tent camp kills at least 40 people, Palestinians say - The Associated Press",
+    "description": "Palestinian officials say an Israeli strike on a crowded tent camp housing Palestinians displaced by the war in Gaza has killed at least 40 people and wounded 60 others. Israel said it targeted “significant” Hamas militants, allegations denied by the militant…",
+    "url": "https://apnews.com/article/israel-palestinians-hamas-war-news-september-10-2024-3e1435277993d03de61f4e1c7494deec",
+    "urlToImage": "https://dims.apnews.com/dims4/default/01fbecc/2147483647/strip/true/crop/4724x2657+0+246/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ff5%2F78%2F5bf11222eb5b4431de5df5d331a5%2F05f9eacf16a54f7a82ce5c5bdf2e9052",
+    "publishedAt": "2024-09-10T05:23:00Z",
+    "content": "DEIR AL-BALAH, Gaza Strip (AP) An Israeli strike on a crowded tent camp housing Palestinians displaced by the war in Gaza killed at least 40 people and wounded 60 others early Tuesday, Palestinian of… [+4714 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "BBC News"
+    },
+    "author": null,
+    "title": "James Earl Jones, voice of Darth Vader, dies aged 93 - BBC.com",
+    "description": "The Hollywood actor died on Monday morning surrounded by his family.",
+    "url": "https://www.bbc.com/news/articles/ce81rkg87w8o",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2e68/live/75a3de00-6eee-11ef-b066-533b2a7303d2.jpg",
+    "publishedAt": "2024-09-10T05:21:17Z",
+    "content": "James Earl Jones, seen here in 2015\r\nAmerican actor James Earl Jones, best known for being the voice of the Star Wars villain Darth Vader, has died aged 93.\r\nHe died early on Monday morning surrounde… [+4239 chars]"
+    },
+    {
+    "source": {
+    "id": "reuters",
+    "name": "Reuters"
+    },
+    "author": "Joey Roulette, Gerry Doyle",
+    "title": "SpaceX set to launch billionaire's private crew on breakthrough spacewalk mission - Reuters",
+    "description": "A crew of four private astronauts on Tuesday were in the final stages of preparation for a risky SpaceX mission to attempt the first-ever private spacewalk using the company's new spacesuits and a redesigned spacecraft.",
+    "url": "https://www.reuters.com/technology/space/spacex-set-launch-billionaires-private-crew-breakthrough-spacewalk-mission-2024-09-10/",
+    "urlToImage": "https://www.reuters.com/resizer/v2/DQC5GBKT6BLHDOVZSD6ZPMXVDE.jpg?auth=d0c91323dad50e06c4dadd4cdf2824b0256f3b7387c9c7292cd3aa66570f8c59&height=1005&width=1920&quality=80&smart=true",
+    "publishedAt": "2024-09-10T05:20:23Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": "Christopher Lamb, Helen Regan, Kathleen Magramo",
+    "title": "Pope Francis gets rockstar welcome in the world’s most Catholic nation outside of Vatican City - CNN",
+    "description": "Pope Francis received a rapturous welcome from the tiny Southeast Asian nation of East Timor, one of the world’s most Catholic countries, where more than half the population is expected to turn out for an open-air mass on Tuesday.",
+    "url": "https://www.cnn.com/2024/09/09/asia/pope-francis-east-timor-intl-hnk/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2170303069.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2024-09-10T04:46:00Z",
+    "content": "Pope Francis received a rapturous welcome from the tiny Southeast Asian nation of East Timor, one of the worlds most Catholic countries, where more than half the population is expected to turn out fo… [+7974 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "9to5google.com"
+    },
+    "author": "Abner Li",
+    "title": "New Chromecast with Google TV update rolling out - 9to5Google",
+    "description": "Ahead of the Google TV Streamer launching later this month, the next Chromecast with Google TV update (July 2024) is rolling out.",
+    "url": "http://9to5google.com/2024/09/09/chromecast-google-tv-update-july-2024/",
+    "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/07/Chromecast-with-Google-TV-packaging-logo.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2024-09-10T04:42:00Z",
+    "content": "Ahead of the Google TV Streamer launching later this month, the next Chromecast with Google TV update (July 2024) is rolling out. While Google is no longer manufacturing new dongles, they will remain… [+947 chars]"
+    },
+    {
+    "source": {
+    "id": "cbs-news",
+    "name": "CBS News"
+    },
+    "author": "Shawna Mizelle",
+    "title": "Nebraska, Missouri abortion rights ballot measures face legal challenges ahead of certification deadlines - CBS News",
+    "description": "Abortion rights ballot measures​ in Nebraska and Missouri are facing legal challenges ahead of looming ballot certification deadlines.",
+    "url": "https://www.cbsnews.com/news/abortion-ballot-measures-nebraska-missouri-legal-challenges-certification-deadlines/",
+    "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2019/05/31/a03ce764-b8eb-462c-aed5-030e50d2b231/thumbnail/1200x630/6ead406eb1930a9785bcfe7af8a8d11b/gettyimages-1146967065-copy.jpg?v=631cf5f2b4e8db7f9bc428589402864d",
+    "publishedAt": "2024-09-10T03:33:48Z",
+    "content": "Abortion rights ballot measures in Nebraska and Missouri are facing legal challenges ahead of looming certification deadlines. \r\nMissouri Judge Christopher Limbaugh on Friday ruled against an abortio… [+3365 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "WLWT Cincinnati"
+    },
+    "author": "Emily Sanderson",
+    "title": "Suspect in Kentucky interstate shooting sent threatening texts shortly before: court docs - WLWT Cincinnati",
+    "description": "Schools are closed and drivers are on edge as a man accused of opening fire at cars along I-75, remains on the run.",
+    "url": "https://www.wlwt.com/article/kentucky-interstate-75-shooting-suspect-joseph-couch/62114960",
+    "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/screenshot-2024-09-09-160417-66df55b8590bc.png?crop=0.768xw:1.00xh;0,0&resize=1200:*",
+    "publishedAt": "2024-09-10T03:13:00Z",
+    "content": "PARK HILLS, Ky. —A search is continuing on the ground and in the air for the suspected gunman accused of shooting five people on the highway in rural Kentucky over the weekend.\r\nThe U.S. Marshal's Of… [+4839 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "The Weather Channel"
+    },
+    "author": "The Weather Channel",
+    "title": "Francine Likely To Reach Gulf Coast As A Hurricane - The Weather Channel",
+    "description": "This quiet streak just couldn't last. Here's what you need to know about Francine and its potential impacts.",
+    "url": "https://weather.com/storms/hurricane/news/2024-09-09-tropical-storm-francine-louisiana-texas-gulf-hurricane",
+    "urlToImage": "https://s.w-x.co/Tropical%2011p%20update.jpg",
+    "publishedAt": "2024-09-10T03:00:00Z",
+    "content": "At a Glance\r\n<ul><li>Francine is gaining strength in the western Gulf of Mexico. </li><li>It's forecast to sweep into Louisiana Wednesday as a hurricane.</li><li>Flooding rainfall, storm surge, damag… [+5977 chars]"
+    },
+    {
+    "source": {
+    "id": "nbc-news",
+    "name": "NBC News"
+    },
+    "author": "Dennis Romero, Kayla McCormick",
+    "title": "Video released of 2023 interview with father and teen charged in Georgia school shooting - NBC News",
+    "description": "Body camera video of investigators' interview last year with a man and his teenage son, who is accused of fatally shooting four people in a Georgia school, was released by authorities Monday.",
+    "url": "https://www.nbcnews.com/news/us-news/video-released-2023-interview-father-teen-charged-georgia-school-shoot-rcna170326",
+    "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-09/240909-colin-gray-body-cam-snip-2023-ac-741p-61f9db.jpg",
+    "publishedAt": "2024-09-10T02:45:00Z",
+    "content": "Body camera video of investigators' interview last year with a man and his teenage son, who is accused of fatally shooting four people in a Georgia school, was released by authorities Monday.\r\nThey w… [+4569 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "SciTechDaily"
+    },
+    "author": null,
+    "title": "Historic Discovery: Twin Titans Clash As NASA Unveils Closest Supermassive Black Hole Duo - SciTechDaily",
+    "description": "Cores of Two Galaxies Are on a Collision Course For all practical purposes, stars traveling across space never smash into each other. The ratio between a starlike sun's diameter and its distance to the next neighboring star is about 1:10 million. Galaxies do …",
+    "url": "https://scitechdaily.com/historic-discovery-twin-titans-clash-as-nasa-unveils-closest-supermassive-black-hole-duo/",
+    "urlToImage": "https://scitechdaily.com/images/Pair-of-Merging-Black-Holes-scaled.jpg",
+    "publishedAt": "2024-09-10T02:41:15Z",
+    "content": "Astronomers have observed the closest pair of supermassive black holes ever confirmed, located 300 light-years apart within merging galaxies. Using NASA’s Hubble and Chandra telescopes, this discover… [+8588 chars]"
+    },
+    {
+    "source": {
+    "id": "espn",
+    "name": "ESPN"
+    },
+    "author": "Nick Wagoner, Rich Cimini",
+    "title": "49ers spoil Aaron Rodgers' return to Jets in dominant win - ESPN",
+    "description": "San Francisco handled business on offense and defense without Christian McCaffrey.",
+    "url": "https://www.espn.com/nfl/story/_/id/41195952/san-francisco-49ers-new-york-jets-aaron-rodgers-debut-spoiled",
+    "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0910%2Fr1384222_1296x729_16%2D9.jpg",
+    "publishedAt": "2024-09-10T02:24:00Z",
+    "content": "SANTA CLARA, Calif. -- The San Francisco 49ers spoiled Aaron Rodgers' comeback party with the New York Jets on Monday, beating the quarterback in his first game since tearing his left Achilles nearly… [+6546 chars]"
+    },
+    {
+    "source": {
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": "Chris Boyette, Cindy Von Quednow",
+    "title": "Line and Davis fires grow in California and Nevada, displacing thousands - CNN",
+    "description": "Wildfires in California and Nevada are driving thousands from their homes as firefighters in the air and on the ground work to contain them, amid daytime temperatures nearing 100 degrees. Here is the latest:",
+    "url": "https://www.cnn.com/2024/09/09/us/wildfires-spread-california-nevada-monday/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2170133700.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2024-09-10T01:55:00Z",
+    "content": "Wildfires in California and Nevada are driving thousands from their homes as firefighters in the air and on the ground work to contain them, amid daytime temperatures nearing 100 degrees. Here is the… [+9247 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "BBC News"
+    },
+    "author": null,
+    "title": "Typhoon Yagi collapses busy bridge in Vietnam - BBC.com",
+    "description": "Typhoon Yagi, the most powerful to hit Asia this year, kills 60 and destroys homes across north of country.",
+    "url": "https://www.bbc.com/news/articles/cqxjn3w9228o",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/ea5c/live/c3393720-6f23-11ef-b02d-c5f3b724a1ea.jpg",
+    "publishedAt": "2024-09-10T01:14:17Z",
+    "content": "Watch: Moment busy bridge collapses in Vietnam\r\nA busy bridge in northern Vietnam collapsed after being hit by Super Typhoon Yagi, which has killed more than 60 people since making landfall on Saturd… [+3088 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "New York Post"
+    },
+    "author": "Dorian Geiger, Patrick Reilly",
+    "title": "Harvey Weinstein is recovering, but ‘in a lot of pain’ following emergency heart surgery: rep - New York Post ",
+    "description": "“He had chest pains, he was having trouble breathing, he had a bad cough,” his rep said.",
+    "url": "https://nypost.com/2024/09/09/us-news/harvey-weinstein-is-recovering-but-in-a-lot-of-pain-following-emergency-heart-surgery-rep/",
+    "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/09/89348555.jpg?quality=75&strip=all&w=1024",
+    "publishedAt": "2024-09-10T01:07:00Z",
+    "content": "Convicted rapist and disgraced Hollywood producer Harvey Weinstein is recovering from emergency heart surgery at Bellevue Hospital but remains in a lot of pain, his representative said.\r\nWeinstein, 7… [+2738 chars]"
+    },
+    {
+    "source": {
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": "David Close",
+    "title": "Johnny Gaudreau’s widow reveals pregnancy with their third child at funeral - CNN",
+    "description": "The lives of Johnny and Matthew Gaudreau were remembered at an emotional, joint memorial service at St. Mary Magdalen Catholic Church in Media, PA, on Monday.",
+    "url": "https://www.cnn.com/2024/09/09/sport/joint-funeral-johnny-matthew-gaudreau-spt-intl/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap24253599583423.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2024-09-10T01:01:00Z",
+    "content": "The lives of Johnny and Matthew Gaudreau were remembered at an emotional, joint memorial service at St. Mary Magdalen Catholic Church in Media, PA, on Monday.\r\nMany NHL players, including Sean Monaha… [+3134 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "New York Post"
+    },
+    "author": "Ryan Glasspiegel",
+    "title": "Furious DirecTV customers still in dark for Jets-49ers on ‘MNF’ as dispute with Disney continues - New York Post ",
+    "description": "As Jets vs. 49ers began on “Monday Night Football” on ESPN and ABC, the networks’ parent company, Disney, has still not come to a carriage agreement with DirecTV.",
+    "url": "https://nypost.com/2024/09/09/sports/directv-customers-still-in-dark-for-jets-49ers-on-mnf-as-disney-dispute-continues/",
+    "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/09/newspress-collage-esip68nrh-1725928549765.jpg?quality=75&strip=all&1725914266&w=1024",
+    "publishedAt": "2024-09-10T00:47:00Z",
+    "content": "An important milestone has passed in the Cold War between Disney and DirecTV.\r\nAs Jets vs. 49ers began on “Monday Night Football” on ESPN and ABC, the networks’ parent company, Disney, has still not … [+2552 chars]"
+    }
+    ]
+    }
